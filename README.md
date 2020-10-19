@@ -1,25 +1,13 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
 # recipegram
+#youtube動画学習　🎥✨　レシピ投稿サイト📕
+
+
+##環境 ruby 2.5.7
+
+rails 5.2.4
+
+作成者　yuki maeda
+
+所属 DMMWEBCAMP8月生
+
+E-mail　yukinooffice@gmail.com
