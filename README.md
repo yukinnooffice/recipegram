@@ -6,7 +6,5 @@
 
 rails 5.2.4
 
-作成者　yuki maeda
-
 
 E-mail　yukinooffice@gmail.com
